@@ -4,10 +4,6 @@
   <b>Frontend / Full-stack Developer | UI/UX Enthusiast | Graphic Designer</b>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your_username&color=blueviolet" alt="Profile views"/>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -18,7 +14,7 @@ I enjoy combining **design + code**, exploring new technologies, and constantly 
 - 🌱 Learning: **Next.js | Flutter | UI/UX | Cloud | Unity**
 - 💬 Ask me about: **React, UI/UX, Git, frontend architecture**
 - 📫 Reach me at: **cebaaniyoucef1@gmail.com**
-- ⚡ Fun fact: **i do everything **
+- ⚡ Fun fact: **i do everything**
 
 ---
 
