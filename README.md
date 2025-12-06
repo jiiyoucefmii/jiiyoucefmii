@@ -47,7 +47,7 @@ I enjoy combining **design + code**, exploring new technologies, and constantly 
 
 <h3>📈 Stats Overview</h3>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&hide_border=true&bg_color=0d1117&title_color=7B1FA2&text_color=9e9e9e&icon_color=7B1FA2)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
 <h3>💬 Most Used Languages</h3>
 
